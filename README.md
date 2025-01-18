@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an ESP32 badge project<br>👯 I’m looking to collaborate on anything security!<br>🌱 I’m currently learning about Android Forensics<br>💬 Ask me about my blog! (https://katherinenayan.com/)<br>⚡
+🔭 I’m currently working on an ESP32 badge project<br>👯 I’m looking to collaborate on anything security!<br>🌱 I’m currently learning about Android Forensics<br>💬 Ask me about my blog! (https://katherinenayan.com/)<br>
 
 
 ## 🌐 Socials:
